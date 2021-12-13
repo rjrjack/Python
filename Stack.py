@@ -14,6 +14,6 @@ Stack.pop()
 print(Stack)
 print('')
 
-Stack.pop(3)       # You wouldn't do this with a stack, as the latest addition is the first to come off in a stack...
+Stack.pop(3)       # You wouldn't actually do this with a stack, as the latest addition is the first to come off in a stack...
 print(Stack)
 print('')

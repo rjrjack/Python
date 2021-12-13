@@ -1,4 +1,5 @@
 
+# Creating a stack from a list
 
 Stack = ['Alfa', 'BMW', 'Cadillac', 'Dodge', 'Edsel', 'Ford', 'GMC', 'Hyundai', 'Infiniti']
 print(Stack)
